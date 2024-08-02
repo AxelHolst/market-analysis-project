@@ -4,6 +4,8 @@ Bull Market 1: 2000-01-05 to 2000-03-06 (Start: 307.09, End: 413.72, Change: 34.
 Debug info for Bull Market 1:
 Start date: 2000-01-05 00:00:00, End date: 2000-03-06 00:00:00
 Start price: 307.09, End price: 413.72
+20% Threshold date: 2000-02-08
+20% Threshold price: 370.51
 Min price in period: 307.09
 Max price in period: 413.72
 Percentage change: 34.72%
@@ -13,6 +15,8 @@ Bear Market 2: 2000-03-06 to 2001-04-03 (Start: 413.72, End: 225.64, Change: 45.
 Debug info for Bear Market 2:
 Start date: 2000-03-06 00:00:00, End date: 2001-04-03 00:00:00
 Start price: 413.72, End price: 225.64
+20% Threshold date: 2000-09-28
+20% Threshold price: 329.70
 Min price in period: 225.64
 Max price in period: 413.72
 Percentage change: 45.46%
@@ -22,6 +26,8 @@ Bull Market 3: 2001-04-03 to 2001-05-22 (Start: 225.64, End: 271.50, Change: 20.
 Debug info for Bull Market 3:
 Start date: 2001-04-03 00:00:00, End date: 2001-05-22 00:00:00
 Start price: 225.64, End price: 271.50
+20% Threshold date: 2001-05-22
+20% Threshold price: 271.50
 Min price in period: 225.64
 Max price in period: 271.50
 Percentage change: 20.32%
@@ -31,6 +37,8 @@ Bear Market 4: 2001-05-22 to 2001-09-21 (Start: 271.50, End: 183.66, Change: 32.
 Debug info for Bear Market 4:
 Start date: 2001-05-22 00:00:00, End date: 2001-09-21 00:00:00
 Start price: 271.50, End price: 183.66
+20% Threshold date: 2001-09-05
+20% Threshold price: 214.73
 Min price in period: 183.66
 Max price in period: 271.50
 Percentage change: 32.35%
@@ -40,6 +48,8 @@ Bull Market 5: 2001-09-21 to 2001-12-05 (Start: 183.66, End: 247.80, Change: 34.
 Debug info for Bull Market 5:
 Start date: 2001-09-21 00:00:00, End date: 2001-12-05 00:00:00
 Start price: 183.66, End price: 247.80
+20% Threshold date: 2001-11-08
+20% Threshold price: 224.28
 Min price in period: 183.66
 Max price in period: 247.80
 Percentage change: 34.92%
@@ -49,6 +59,8 @@ Bear Market 6: 2001-12-05 to 2002-10-09 (Start: 247.80, End: 126.41, Change: 48.
 Debug info for Bear Market 6:
 Start date: 2001-12-05 00:00:00, End date: 2002-10-09 00:00:00
 Start price: 247.80, End price: 126.41
+20% Threshold date: 2002-05-30
+20% Threshold price: 197.09
 Min price in period: 126.41
 Max price in period: 247.80
 Percentage change: 48.99%
@@ -58,6 +70,8 @@ Bull Market 7: 2002-10-09 to 2002-11-28 (Start: 126.41, End: 172.74, Change: 36.
 Debug info for Bull Market 7:
 Start date: 2002-10-09 00:00:00, End date: 2002-11-28 00:00:00
 Start price: 126.41, End price: 172.74
+20% Threshold date: 2002-10-31
+20% Threshold price: 151.81
 Min price in period: 126.41
 Max price in period: 172.74
 Percentage change: 36.65%
@@ -67,6 +81,8 @@ Bear Market 8: 2002-11-28 to 2003-03-12 (Start: 172.74, End: 131.37, Change: 23.
 Debug info for Bear Market 8:
 Start date: 2002-11-28 00:00:00, End date: 2003-03-12 00:00:00
 Start price: 172.74, End price: 131.37
+20% Threshold date: 2003-02-10
+20% Threshold price: 137.98
 Min price in period: 131.37
 Max price in period: 172.74
 Percentage change: 23.95%
@@ -76,6 +92,8 @@ Bull Market 9: 2003-03-12 to 2007-07-16 (Start: 131.37, End: 427.24, Change: 225
 Debug info for Bull Market 9:
 Start date: 2003-03-12 00:00:00, End date: 2007-07-16 00:00:00
 Start price: 131.37, End price: 427.24
+20% Threshold date: 2003-06-06
+20% Threshold price: 158.39
 Min price in period: 131.37
 Max price in period: 427.24
 Percentage change: 225.22%
@@ -85,6 +103,8 @@ Bear Market 10: 2007-07-16 to 2008-10-27 (Start: 427.24, End: 180.19, Change: 57
 Debug info for Bear Market 10:
 Start date: 2007-07-16 00:00:00, End date: 2008-10-27 00:00:00
 Start price: 427.24, End price: 180.19
+20% Threshold date: 2007-11-21
+20% Threshold price: 339.88
 Min price in period: 180.19
 Max price in period: 427.24
 Percentage change: 57.82%
@@ -94,6 +114,8 @@ Bull Market 11: 2008-10-27 to 2008-11-04 (Start: 180.19, End: 224.17, Change: 24
 Debug info for Bull Market 11:
 Start date: 2008-10-27 00:00:00, End date: 2008-11-04 00:00:00
 Start price: 180.19, End price: 224.17
+20% Threshold date: 2008-11-04
+20% Threshold price: 224.17
 Min price in period: 180.19
 Max price in period: 224.17
 Percentage change: 24.41%
@@ -103,6 +125,8 @@ Bear Market 12: 2008-11-04 to 2008-11-21 (Start: 224.17, End: 176.54, Change: 21
 Debug info for Bear Market 12:
 Start date: 2008-11-04 00:00:00, End date: 2008-11-21 00:00:00
 Start price: 224.17, End price: 176.54
+20% Threshold date: 2008-11-21
+20% Threshold price: 176.54
 Min price in period: 176.54
 Max price in period: 224.17
 Percentage change: 21.25%
@@ -112,6 +136,8 @@ Bull Market 13: 2008-11-21 to 2011-01-03 (Start: 176.54, End: 375.82, Change: 11
 Debug info for Bull Market 13:
 Start date: 2008-11-21 00:00:00, End date: 2011-01-03 00:00:00
 Start price: 176.54, End price: 375.82
+20% Threshold date: 2009-01-02
+20% Threshold price: 214.01
 Min price in period: 176.54
 Max price in period: 375.82
 Percentage change: 112.88%
@@ -121,6 +147,8 @@ Bear Market 14: 2011-01-03 to 2011-10-04 (Start: 375.82, End: 270.24, Change: 28
 Debug info for Bear Market 14:
 Start date: 2011-01-03 00:00:00, End date: 2011-10-04 00:00:00
 Start price: 375.82, End price: 270.24
+20% Threshold date: 2011-08-04
+20% Threshold price: 296.56
 Min price in period: 270.24
 Max price in period: 375.82
 Percentage change: 28.09%
@@ -130,6 +158,8 @@ Bull Market 15: 2011-10-04 to 2015-04-27 (Start: 270.24, End: 564.90, Change: 10
 Debug info for Bull Market 15:
 Start date: 2011-10-04 00:00:00, End date: 2015-04-27 00:00:00
 Start price: 270.24, End price: 564.90
+20% Threshold date: 2012-01-19
+20% Threshold price: 325.01
 Min price in period: 270.24
 Max price in period: 564.90
 Percentage change: 109.04%
@@ -139,6 +169,8 @@ Bear Market 16: 2015-04-27 to 2016-02-11 (Start: 564.90, End: 435.21, Change: 22
 Debug info for Bear Market 16:
 Start date: 2015-04-27 00:00:00, End date: 2016-02-11 00:00:00
 Start price: 564.90, End price: 435.21
+20% Threshold date: 2016-01-20
+20% Threshold price: 446.99
 Min price in period: 435.21
 Max price in period: 564.90
 Percentage change: 22.96%
@@ -148,6 +180,8 @@ Bull Market 17: 2016-02-11 to 2020-02-19 (Start: 435.21, End: 732.67, Change: 68
 Debug info for Bull Market 17:
 Start date: 2016-02-11 00:00:00, End date: 2020-02-19 00:00:00
 Start price: 435.21, End price: 732.67
+20% Threshold date: 2016-10-04
+20% Threshold price: 522.62
 Min price in period: 435.21
 Max price in period: 732.67
 Percentage change: 68.35%
@@ -157,6 +191,8 @@ Bear Market 18: 2020-02-19 to 2020-03-23 (Start: 732.67, End: 478.95, Change: 34
 Debug info for Bear Market 18:
 Start date: 2020-02-19 00:00:00, End date: 2020-03-23 00:00:00
 Start price: 732.67, End price: 478.95
+20% Threshold date: 2020-03-11
+20% Threshold price: 577.91
 Min price in period: 478.95
 Max price in period: 732.67
 Percentage change: 34.63%
@@ -166,6 +202,8 @@ Bull Market 19: 2020-03-23 to 2022-01-04 (Start: 478.95, End: 1045.27, Change: 1
 Debug info for Bull Market 19:
 Start date: 2020-03-23 00:00:00, End date: 2022-01-04 00:00:00
 Start price: 478.95, End price: 1045.27
+20% Threshold date: 2020-04-14
+20% Threshold price: 586.92
 Min price in period: 478.95
 Max price in period: 1045.27
 Percentage change: 118.24%
@@ -175,6 +213,8 @@ Bear Market 20: 2022-01-04 to 2022-09-29 (Start: 1045.27, End: 690.07, Change: 3
 Debug info for Bear Market 20:
 Start date: 2022-01-04 00:00:00, End date: 2022-09-29 00:00:00
 Start price: 1045.27, End price: 690.07
+20% Threshold date: 2022-03-04
+20% Threshold price: 812.90
 Min price in period: 690.07
 Max price in period: 1045.27
 Percentage change: 33.98%
@@ -184,6 +224,8 @@ Bull Market 21: 2022-09-29 to 2024-07-02 (Start: 690.07, End: 972.91, Change: 40
 Debug info for Bull Market 21:
 Start date: 2022-09-29 00:00:00, End date: 2024-07-02 00:00:00
 Start price: 690.07, End price: 972.91
+20% Threshold date: 2023-01-09
+20% Threshold price: 833.88
 Min price in period: 690.07
 Max price in period: 1003.47
 Percentage change: 40.99%
